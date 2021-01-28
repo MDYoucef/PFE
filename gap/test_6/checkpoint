@@ -1,0 +1,6 @@
+model_checkpoint_path: "v24_model.ckpt"
+all_model_checkpoint_paths: "v20_model.ckpt"
+all_model_checkpoint_paths: "v21_model.ckpt"
+all_model_checkpoint_paths: "v22_model.ckpt"
+all_model_checkpoint_paths: "v23_model.ckpt"
+all_model_checkpoint_paths: "v24_model.ckpt"
